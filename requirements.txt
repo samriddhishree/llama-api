@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-decouple
+llama-index
+llama-parse
+pypdf
+python-multipart
+transformers
+llama-index-llms-anthropic
+llama-index-postprocessor-jinaai-rerank
+llama-index-readers-file
+
+# IPYNB Loader
+nbconvert
+ipython
